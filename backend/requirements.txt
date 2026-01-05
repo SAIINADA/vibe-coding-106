@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+sentence-transformers
+numpy
+nltk
+pymupdf
+pytesseract
+opencv-python
+Pillow
+reportlab
